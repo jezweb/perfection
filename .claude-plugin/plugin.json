@@ -1,5 +1,5 @@
 {
-  "name": "perfection-loop",
+  "name": "perfection",
   "description": "Add a self-improving 'perfection loop' to an app — a background work loop that drives it toward a 10/10 product instead of grinding tasks. Fitness function + adversarial critic + a floor and a ceiling so it never coasts.",
   "version": "1.0.0",
   "author": {
@@ -7,6 +7,6 @@
     "email": "jeremy@jezweb.net"
   },
   "license": "MIT",
-  "homepage": "https://github.com/jezweb/perfection-loop",
-  "repository": "https://github.com/jezweb/perfection-loop"
+  "homepage": "https://github.com/jezweb/perfection",
+  "repository": "https://github.com/jezweb/perfection"
 }

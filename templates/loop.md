@@ -1,4 +1,4 @@
-# Perfection loop — the tick
+# Perfection — the tick
 
 > You own this app. Your job is **not to do tasks**. It is to drive this app toward a 10/10
 > product that users and agents find genuinely delightful and that does its job superbly.

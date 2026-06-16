@@ -1,9 +1,9 @@
-# Perfection Loop
+# Perfection
 
 **A self-improving work loop that drives an app toward a 10/10 product — instead of grinding a task list.**
 
 Most autonomous loops coast. Left to a checklist, a capable model finds the cheapest defensible thing
-to do each tick, ships the minimum that clears it, and reports done. Perfection Loop replaces the
+to do each tick, ships the minimum that clears it, and reports done. Perfection replaces the
 checklist with a **fitness function** and an **adversarial critic** whose only job is to catch
 coasting — plus a floor and a ceiling that keep every tick honest. It's a Claude Code plugin: one
 skill that sets the loop up in any app and tells you how to run it.
@@ -35,8 +35,8 @@ Full methodology: [`docs/pattern.md`](docs/pattern.md).
 This is a Claude Code plugin. Add the marketplace and install:
 
 ```
-/plugin marketplace add jezweb/perfection-loop
-/plugin install perfection-loop
+/plugin marketplace add jezweb/perfection
+/plugin install perfection
 ```
 
 ## Use

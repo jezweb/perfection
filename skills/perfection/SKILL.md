@@ -1,11 +1,11 @@
 ---
-name: perfection-loop
+name: perfection
 description: Add a self-improving "perfection loop" to an app — a background work loop that drives it toward a 10/10 product instead of grinding a task list. Sets up a per-app bar (fitness function), a tick procedure with an adversarial critic, inward + outward lenses, and a floor and ceiling that keep every tick honest. Use when the user wants an app to keep improving itself, asks to set up an autonomous build/improvement loop, or says "drive this toward perfection". Triggers: perfection loop, self-improving loop, drive toward perfection, autonomous improvement loop, make this app as good as it can be, keep improving the app.
 ---
 
-# Perfection loop — make an app improve itself toward 10/10
+# Perfection — make an app improve itself toward 10/10
 
-A perfection loop is a background work loop whose unit of work is **"close the single biggest gap
+Perfection is a background work loop whose unit of work is **"close the single biggest gap
 between this app and what excellent looks like"** — judged by an adversarial critic, not "do the next
 item on a list." It exists to beat the one failure every autonomous loop drifts into: **coasting**,
 finding the cheapest defensible thing to do and calling it progress.
