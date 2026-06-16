@@ -1,0 +1,14 @@
+{
+  "name": "perfection-loop",
+  "owner": {
+    "name": "Jeremy Dawes",
+    "email": "jeremy@jezweb.net"
+  },
+  "plugins": [
+    {
+      "name": "perfection-loop",
+      "source": "./",
+      "description": "A self-improving work loop that drives an app toward a 10/10 product: a per-app fitness function, an adversarial critic that catches coasting, outward lenses that break the bubble, and a floor and ceiling that keep every tick honest."
+    }
+  ]
+}
